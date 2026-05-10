@@ -1,10 +1,13 @@
 <script>
   //import svelteLogo from './assets/svelte.svg'
-  import Counter from './lib/Counter.svelte'
+ 
+  import Form from './lib/Form.svelte'
 </script>
 
 <section id="center">
 
-  <Counter />
+  <Form/>
+ 
+
 </section>
 
