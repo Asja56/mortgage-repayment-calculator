@@ -34,8 +34,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Asja56/mortgage-repayment-calculator)
-- Live Site URL: [Add live site URL here](https://asja56.github.io/mortgage-repayment-calculator)
+- [Solution URL](https://github.com/Asja56/mortgage-repayment-calculator)
+- [Live Site URL](https://asja56.github.io/mortgage-repayment-calculator)
 
 ## My process
 
